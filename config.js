@@ -31,9 +31,9 @@ global.APIKeys = {
 
 // Other
 
-global.alivemsg =`HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜️
+global.alivemsg =`HI I'M  ⚜️ROCKY MD BOT⚜️
                     
-		   KAVEESHA MD📌 `
+		   ROCKY MD📌 `
                      
 
 
@@ -44,8 +44,8 @@ global.alivepic = `https://i.ibb.co/2d6vv85/Whats-App-Image-2022-09-26-at-07-59-
 
 
 global.ownername = " KAVEESHA " //ur owner name
-global.owner = ['94774579505','']
-global.premium = ['94774579505','94774579505']
+global.owner = ['94761284534','']
+global.premium = ['94761284534','94761284534']
 global.botname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
 global.ownername = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
 global.group1 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
